@@ -29,4 +29,4 @@ Ensure that the path points to where you cloned the repository.
 (Note: You need to restart your terminal or run `source ~/.bashrc` (or `source ~/.zshrc` if you use Zsh) for the changes to take effect.)
 
 **warning**
-This program must be run as a source file otherwise it will not work.
+This program must be sourced--Not executed in a subshell--Otherwise it will not work.
